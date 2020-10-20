@@ -1,0 +1,14 @@
+body {
+  background-image: url("https://travelnostop.com/wp-content/uploads/2015/06/mpgsj_Trenitalia-Spot.jpg");
+  background-size: cover;
+}
+
+.container-price {
+  width: 50%;
+  min-height: 30%;
+  margin: 60px;
+  text-align: center;
+  border: 1px solid black;
+  color: white;
+  background-color: rgba(0, 0, 0, 0.5);
+}
