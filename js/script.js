@@ -12,7 +12,7 @@ console.log(eta)
 
 // Calcolo del prezzo totale del biglietto per km ('0,21 euro per km')
 
-var prezzoIntero = (km * 0,21);
+var prezzoIntero = (km * 0.21)
 console.log(prezzoIntero)
 
 var prezzoTreno
@@ -30,15 +30,15 @@ var prezzoTreno
    console.log(prezzoOver);
 
 // Output: comunicazione dell'importo totale
-  if (eta >= 65) { prezzoTreno = prezzoOver
+  if (eta >= 65) { (prezzoTreno = prezzoOver)
     console.log(prezzoOver);
   }
 
-  if else (eta <= 17) { prezzoTreno = prezzoMinore
+  if else (eta <= 17) { (prezzoTreno = prezzoMinore)
     console.log(prezzoMinore);
   }
 
-  else (eta >= 18) { prezzoTreno = prezzoIntero
+  else (eta >= 18) { (prezzoTreno = prezzoIntero)
     console.log(prezzoIntero);
   }
 
